@@ -51,6 +51,17 @@ Un script d'installation automatique (`install.sh`) est également disponible po
 cls -----------------------> 'clear'
 Get-UserInfo --------------> 'whoami'  
 ```
+## Information
+
+**English**
+Spaced commands such as "net user" in Windows should be used with a short stroke.
+**Français**
+Les commandes espacées telles que « utilisateur net » dans Windows doivent être utilisées avec un trait court.
+
+Exemple/Example:
+```ps1
+net-user ---> 'net user'
+```
 ---
 
 ## Uninstall / Désinstallation
