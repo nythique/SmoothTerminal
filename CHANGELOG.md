@@ -21,3 +21,6 @@
 - Automatic installation script (install.sh)
 - Bilingual documentation (README, CONTRIBUTING, REFERENCE)
 - Windows/Linux command reference table
+
+---
+
