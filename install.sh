@@ -92,7 +92,6 @@ EOF
         sleep 0.2
     done
 
-    # Effet de transition
     echo
     echo -e "${YELLOW}╔════════════════════════════════════════╗${RESET}"
     echo -e "${YELLOW}║${RESET}     ${BLUE}Windows${RESET} ${GREEN}Command Converter${RESET}        ${YELLOW}║${RESET}"
