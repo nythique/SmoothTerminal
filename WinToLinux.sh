@@ -3,6 +3,8 @@
 # It is used to help users to find the equivalent command in Linux
 # ================================================================
 # Author: @Nythique: https://github.com/Nythique
+# Portfolio: https://nythique.github.io
+# License:  GNU AFFERO GENERAL PUBLIC LICENSE
 # ================================================================
 # Poject Name: SmoothTerminal
 # Version: 1.0.0
